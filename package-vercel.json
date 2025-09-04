@@ -1,0 +1,16 @@
+{
+  "name": "estufa-gag-vercel-adm",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "echo 'Build completed'"
+  },
+  "dependencies": {
+    "@vercel/node": "^3.0.0",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@types/node": "20.16.11",
+    "typescript": "5.6.3"
+  }
+}
